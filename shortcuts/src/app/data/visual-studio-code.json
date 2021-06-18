@@ -1,0 +1,78 @@
+{
+    "shortcuts":[
+       {
+          "name":"Show Command Pallete",
+          "category":"General",
+          "keys":[
+             "Ctrl;Shift;P"
+          ],
+          "alternativeKeys":[
+              "F1"
+          ]
+       },
+       {
+        "name":"Quick Open, Go to File…",
+        "category":"General",
+        "keys":[
+           "Ctrl;P"
+        ],
+        "alternativeKeys":[            
+        ]
+     },
+     {
+        "name":"New window/instance",
+        "category":"General",
+        "keys":[
+           "Ctrl;Shift;N"
+        ],
+        "alternativeKeys":[
+        ]
+     },
+     {
+        "name":"Close window/instance",
+        "category":"General",
+        "keys":[
+           "Ctrl;Shift;W"
+        ],
+        "alternativeKeys":[
+        ]
+     },
+     {
+        "name":"User Settings",
+        "category":"General",
+        "keys":[
+           "Ctrl;,"
+        ],
+        "alternativeKeys":[
+        ]
+     },
+     {
+        "name":"Keyboard Shortcuts",
+        "category":"General",
+        "keys":[
+           "Ctrl;K",
+           "Ctrl;S"
+        ],
+        "alternativeKeys":[
+        ]
+     },
+     {
+        "name":"Cut line (empty selection)",
+        "category":"Basic editing",
+        "keys":[
+           "Ctrl;X"
+        ],
+        "alternativeKeys":[
+        ]
+     },
+     {
+        "name":"Copy line (empty selection)",
+        "category":"Basic editing",
+        "keys":[
+           "Ctrl;C"
+        ],
+        "alternativeKeys":[
+        ]
+     }
+    ]
+ }

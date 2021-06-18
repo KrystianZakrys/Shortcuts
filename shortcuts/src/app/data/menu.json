@@ -1,0 +1,9 @@
+{
+    "menuItems": [
+        {
+            "name":"Visual Studio Code",
+            "iconFile": "Visual_Studio_Code_1.35_icon.svg",
+            "dataFile":"visual-studio-code.json"
+        }
+    ]
+}

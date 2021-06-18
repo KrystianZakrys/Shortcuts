@@ -1,0 +1,7 @@
+<div class="menu-container" *ngFor="let item of menuItemList">
+    <div>
+        <a routerLink="{{ item.name }}">
+            <img src="../../assets/img/{{item.iconFile}}" alt="{{item.name}}" style="width: 40px;" class="menu-icon active shadow">
+        </a>
+    </div>
+  </div>
